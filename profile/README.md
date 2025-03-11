@@ -10,7 +10,7 @@ These qualities can only achieved by utilising modern software-engineering pract
 - Semantic versioning
 
 ### Current Projects
-1. [pyNexafs](https://github.com/xraysoftmat/pyNexafs) - A pythonic toolkit for analysing NEXAFS spectra. Includes an python API and a PyQT GUI for real-time analysis and normalisation during measurements, based on the IgorPro tool [QANT](https://www.ansto.gov.au/facilities/australian-synchrotron/synchrotron-beamlines/soft-x-ray-spectroscopy/qant).
+1. [pyNexafs](https://github.com/xraysoftmat/pyNexafs) - A pythonic toolkit for analysing NEXAFS spectra. Includes an python API and a PyQT GUI for real-time analysis and normalisation during measurements, based on the IgorPro tool [QANT](https://doi.org/10.1107/S1600577515018688).
 
 ### Contribution Guidelines
 Problems with repositories, or suggestsions are always welcome by raising an `Issue` via the tab on the repository page.
