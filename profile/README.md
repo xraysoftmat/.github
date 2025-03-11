@@ -1,6 +1,13 @@
 ## Welcome to XraySoftMat (or XraysOf(t)Matter) 👋
 This organsation is the home of a collection of X-ray repositories typically used for (but not exclusively) soft-matter systems.
-The goal for these x-ray repositories is to create trustworthy toolkits that can be easily maintained and updated by the community.
+
+The goal for these x-ray repositories is to create accessible and trustworthy toolkits that can be easily maintained and updated by the community.
+These qualities can only achieved by utilising modern software-engineering practises and continuous integration (CI), including
+- Code linting
+- Hint typing
+- Documentation
+- Unit testing
+- Semantic versioning
 
 ### Current Projects
 1. [pyNexafs](https://github.com/xraysoftmat/pyNexafs) - A toolkit for analysing NEXAFS spectra. Includes a GUI for fast analysis and normalisation for live-data.
