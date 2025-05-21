@@ -11,6 +11,7 @@ These qualities can only achieved by utilising modern software-engineering pract
 
 ### Current Projects
 1. [pyNexafs](https://github.com/xraysoftmat/pyNexafs) - A pythonic toolkit for analysing NEXAFS spectra. Includes an python API and a PyQT GUI for real-time analysis and normalisation during measurements, based on the IgorPro tool [QANT](https://doi.org/10.1107/S1600577515018688).
+2. [KKCalc](https://github.com/xraysoftmat/kkcalc) - A pythonic toolkit for performing Kramers Kronig transforms, including calculation and stiching data to the atomic scattering factors of a stochiometry (calculated from Henke ASF database) to improve the KK-transform result. Includes a strong API and PyQT GUI for intuitive use of the tool and it's methods. A [forked](https://github.com/benajamin/kkcalc) version of the original [KKCalc](https://doi.org/10.1364/OE.22.023628) codebase.
 
 ### Contribution Guidelines
 Problems with repositories, or suggestsions are always welcome by raising an `Issue` via the tab on the repository page.
